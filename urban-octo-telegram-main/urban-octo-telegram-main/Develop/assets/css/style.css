@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* benefits sidebar appearance */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* content blocks appearance */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
